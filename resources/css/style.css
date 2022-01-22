@@ -24,3 +24,8 @@ a p {
 a {
   color: darkkhaki;
 }
+
+.right {
+  text-align: right;
+  color: gray;
+}
